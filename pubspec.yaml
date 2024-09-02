@@ -143,55 +143,55 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: ArchivoBlack-Regular
-  #     fonts:
-  #       - asset: assets/fonts/ArchivoBlack-Regular.ttf 
+  fonts:
+    - family: ArchivoBlack-Regular
+      fonts:
+        - asset: assets/fonts/ArchivoBlack-Regular.ttf 
 
-  #   - family: Raleway
-  #     fonts:
-  #       - asset: assets/fonts/raleway.regular.ttf
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/raleway.regular.ttf
 
-  #   - family : Rubik
-  #     fonts : 
-  #       - asset: assets/fonts/rubik/Rubik-Medium.ttf
+    - family : Rubik
+      fonts : 
+        - asset: assets/fonts/rubik/Rubik-Medium.ttf
         
-  #   - family : Inter
-  #     fonts : 
-  #       - asset: assets/fonts/inter/Inter.ttc
+    - family : Inter
+      fonts : 
+        - asset: assets/fonts/inter/Inter.ttc
 
-  #   - family : arimo
-  #     fonts : 
-  #       - asset: assets/fonts/arimo/Arimo-Regular.ttf
+    - family : arimo
+      fonts : 
+        - asset: assets/fonts/arimo/Arimo-Regular.ttf
 
-  #   - family : play
-  #     fonts : 
-  #       - asset: assets/fonts/play/Play-Regular.ttf
+    - family : play
+      fonts : 
+        - asset: assets/fonts/play/Play-Regular.ttf
 
-  #   - family : work-sans
-  #     fonts : 
-  #       - asset: assets/fonts/work-sans/WorkSans-Light.ttf
+    - family : work-sans
+      fonts : 
+        - asset: assets/fonts/work-sans/WorkSans-Light.ttf
 
-  #   - family : bebas-neue
-  #     fonts : 
-  #       - asset: assets/fonts/bebas-neue/Bebas Neue Bold 700.otf
+    - family : bebas-neue
+      fonts : 
+        - asset: assets/fonts/bebas-neue/Bebas Neue Bold 700.otf
 
-  #   - family : roboto
-  #     fonts : 
-  #       - asset: assets/fonts/roboto/Roboto-Regular.ttf
+    - family : roboto
+      fonts : 
+        - asset: assets/fonts/roboto/Roboto-Regular.ttf
 
-  #   - family : poppins
-  #     fonts : 
-  #       - asset: assets/fonts/poppins/Poppins-Regular.ttf
+    - family : poppins
+      fonts : 
+        - asset: assets/fonts/poppins/Poppins-Regular.ttf
 
 
-  #   - family : lato
-  #     fonts : 
-  #       - asset: assets/fonts/lato/Lato-Black.ttf
+    - family : lato
+      fonts : 
+        - asset: assets/fonts/lato/Lato-Black.ttf
 
-  #   - family : lato1
-  #     fonts : 
-  #       - asset: assets/fonts/lato/Lato-Light.ttf
+    - family : lato1
+      fonts : 
+        - asset: assets/fonts/lato/Lato-Light.ttf
 
 
     

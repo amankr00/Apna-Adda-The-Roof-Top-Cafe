@@ -21,10 +21,9 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
   '/': (context) => MyHomePage(title: 'Apna Adda'),
+  // '/': (context) => MyHomePage(title: 'Apna Adda'),
 },
 
-
-      home: const MyHomePage(title: 'Apna Adda'),
     );
   }
 }
